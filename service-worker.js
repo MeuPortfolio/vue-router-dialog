@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-router-dialog/precache-manifest.ee640765ee23b98f3da5edda6ad17a23.js"
+  "/vue-router-dialog/precache-manifest.51d9a31bdb5220712538de333807a34f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-router-dialog"});
